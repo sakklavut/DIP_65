@@ -1,0 +1,37 @@
+/*CSS ของเบียร์*/
+.alert-questionnaire{
+  background-color: #dac9eb;
+}
+
+.page-link{
+  border-radius: 5px;
+  border: 2px solid #e7e7e7;
+  font-color: #8d13a9;
+  color: #8d13a9;
+}
+
+.btn-ques{
+  background-image: linear-gradient(to right, #771ea5 , #b821bb);
+  color: #fff;
+  font-size: 15px;
+}
+
+.btn-ques:hover{
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.btn-question{
+  border: 2px solid #771ea5;
+  color: #771ea5;
+  font-size: 15px;
+}
+
+.btn-question:hover{
+  border: 1px solid #b821bb;
+  color: #b821bb;
+}
+
+/*tr:nth-child(even) {
+  background-color: #dac9eb;
+}*/
